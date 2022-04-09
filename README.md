@@ -62,4 +62,4 @@ python main.py --gpu '0' --batch_size 1 --mode='test' --model='[YOUR PATH]' --te
 }
 ```
 
-- If you have any questions, feel free to contact me via: `hf_wen(at)outlook.com`.
+- If you have any questions, feel free to contact me via: `hf_wen(at)outlook.com` or 'zxforchid@outlook.com'.
